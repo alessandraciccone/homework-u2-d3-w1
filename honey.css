@@ -135,7 +135,11 @@ button{
 
 .tre{
     display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
 }
+
 #dollar3{
           justify-content: center;
     display: flex
@@ -145,8 +149,10 @@ button{
 }
 
 .quattro{
-    display:flex
-}
+display: flex;
+    align-items: center;
+    justify-content: space-evenly;}
+
 #dollar4{
         justify-content: center;
     display: flex
@@ -156,6 +162,8 @@ button{
 }
 .due{
     display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
 #dollar2{
@@ -167,6 +175,8 @@ button{
 }
 
 .uno{display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 
 }
 #dollar1{
@@ -202,4 +212,17 @@ color: rgb(183, 39, 39);;
 h3{
 color: rgb(183, 39, 39);;
 }
+.uno1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+span{
+    color: rgb(183, 39, 39);;
+}
+
+h1{
+    color: rgb(183, 39, 39);;
+}
+}
+
